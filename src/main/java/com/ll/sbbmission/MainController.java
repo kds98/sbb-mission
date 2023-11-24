@@ -1,4 +1,4 @@
-package com.ll.sbbmission.sbb;
+package com.ll.sbbmission;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.GetMapping;
@@ -12,3 +12,5 @@ public class MainController {
         return "hi :)";
     }
 }
+
+
